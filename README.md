@@ -69,8 +69,8 @@ Main ek **Full Stack Developer** hoon jo scalable aur user-friendly web applicat
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-USERNAME]&theme=radical&hide_border=true" alt="Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=[aqib-bhatti]&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=[aqib-bhatti]&theme=radical&hide_border=true" alt="Streak" />
 </p>
 
 ---
