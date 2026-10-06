@@ -16,7 +16,8 @@
 
 <img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Main ek Lahore-based **Full Stack Developer** hoon jo complex business problems ko code ke zariye solve karne ka shaukeen hai. Frontend ki khoobsurti se lekar backend ki logic tak, mujhe end-to-end development ka junoon hai.
+I’m a Lahore-based Full Stack Developer passionate about solving complex business problems through code. From creating beautiful, user-friendly frontends to building powerful backend logic, I’m passionate about developing complete end-to-end solutions.
+
 
 - 🏢 Currently working at: **Spacebar Technologies**
 - 🌍 Freelancing at: **Web Solutions**
